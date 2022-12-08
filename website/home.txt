@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>7 Types of Ship </title>
+	
+	
+	
+	<style> 
+	body {
+	      
+		  background-image: url(images/sea202.jpg);
+		  background-size: 100% 100% ;
+	} 
+	p.margin {
+           margin-top: 30px;
+		   margin-right: 60px;
+		   margin-bottom: 60px;
+		   margin-left: 60px;
+	}
+	h1 {
+	  text-align: center;
+	  text-color: white;
+	  text-background: blue;
+	}
+	
+	}  
+    h3 {
+	   text-transform: capitalize;
+	   text-decoration: underline;
+	}	   
+	
+	div.ship {
+	   text-align: center;
+	}
+	
+	div.top {
+     width: 100%; 
+	 height: 200px;	 
+	 background-image: url(images/gray.jpg);
+	 background-position: center;
+	 
+	}
+	
+	div.top h1 {
+	width: 100%;
+	height: 200px;
+	line-height: 200px;
+	text-align: center;
+	font-size: 70px;
+	margin: 0;
+	color: white;
+	}
+	
+	div.menu { 
+	 width: 100%;
+	 background-color: orange;
+	}
+	
+	div.menu ul {
+	 width: 100%
+	 margin: auto;
+	 list-style: none;
+	 padding: 0;
+	 font-size: 20px;
+	}
+	
+	div.menu ul li {
+	 display: inline-block;
+	 padding: 20px 20px 20px 20px;
+	 }
+	
+	div.menu ul li a:hover, div.menu ul li a.current {
+	  display: inline-block
+	  padding: 50px 50px 50px 50px;
+	  color: black;
+	  background-color: white;
+	}
+	
+	</style>
+  </head>
+  <body>
+    <div class='top'>
+         <h1>7 Type of Ship</h1>	 
+	 </div>  
+  
+  <div class="menu">
+     <ul>
+	 <li> <a href="index.html.html" class="current">Home</a> </li>
+	 <li><a href="passenger ship.html">Passenger Ship</a></li>
+     <li><a href="tanker ship.html">Tanker Ship</a></li>
+     <li><a href="naval ship.html">Naval Ship</a></li>
+     <li><a href="bulk carrier.html">Bulk Carrier</a></li>
+     <li><a href="container ship.html">Container Ship</a></li>
+     <li><a href="fishing vessel.html">Fishing Vessel</a></li> 
+	 <li><a href="roro ship.html">Ro-ro Ship</a></li>
+     </ul>
+</div>
+  
+  <p class="margin"> <h1 style="color:black; background:orange"><u>SHIP</u>- <em>A ship is a big boat that navigates the oceans and other sufficiently deep rivers, 
+   either carrying cargo or people, or in support of more specific missions like fishing, research, or defense.
+   According to size, shape, load capacity, and purpose, ships can be distinguished from boats.</p></em> </h1>
+  </body>
+     <!--picture-->
+    <div class="ship">
+	  <img src="images\ship.jpg" width="850px" height="300  " />
+	</div>
+    <!-- horizontal line -->
+   
+   
+  <p> <h1 style="color:black; background:orange;">
+  The role of shipping in the progress of humanity as a whole is important. It connects producers 
+  and suppliers, sellers and buyers. Maritime transport is therefore considered one of the most important transport activities.
+  </h1> </p> 
+   
+  <p><h3> Personal info:
+     <lI>Name: Sybil Kei S. Balagot </li>   
+     <lI>Contact: 09664455061 </li>   
+     <lI>Gmail account: sybil.kei.balagot@adamson.edu.ph</li>   
+   </h3></p> 
+    <br>
+	<p><h5> <em>References: Wikipedia (2022) Ship-Wikipedia <a href="https://en.wikipedia.org/wiki/Ship">https://en.wikipedia.org/wiki/Ship</a></em>	</h5></p>   
+</html>
